@@ -1,0 +1,6 @@
+if SHIELD_TWS25HKB
+
+config ZMK_KEYBOARD_NAME
+    default "tws25hkb"
+
+endif # SHIELD_TWS25HKB
