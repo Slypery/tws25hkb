@@ -35,5 +35,28 @@
         extra_layer_4 {
             status = "reserved";
         };
+
+        extra_layer_5 {
+            status = "reserved";
+        };
+
+        extra_layer_6 {
+            status = "reserved";
+        };
+
+        extra_layer_7 {
+            status = "reserved";
+        };
+
+        extra_layer_8 {
+            status = "reserved";
+        };
+
+        extra_layer_9 {
+            status = "reserved";
+        };
+        extra_layer_10 {
+            status = "reserved";
+        };
     };
 };
